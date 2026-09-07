@@ -64,20 +64,28 @@ eklemek ve `go` alanına ilgili bölümün `id` değerini yazmak yeterlidir.
   Taşkın Paşa'nın bilinen bir portresi yoktur.
 - **Fosil bölümündeki kafatası fotoğrafı** Şenyürek'in 1954 tarihli makalesinden
   alınmıştır ve alt yazıda kaynak gösterilmiştir.
-- **Damsa haritası** Osmanlı dönemine ait bir haritanın Latin harfli okumalar
-  eklenmiş halidir. Haritanın hangi derlemeden geldiği bilinmiyorsa, yayına
-  almadan önce kaynağının alt yazıya eklenmesi yerinde olur.
+- **Damsa haritası** Osmanlı Arşivi'nden bir haritadır; Latin harfli okumaları
+  Aytülü Dirik eklemiştir. Kaynak ve okumayı yapan kişi, görselin alt yazısında
+  her iki dilde belirtilmiştir.
 - **"Bekar Erkek Hamamı Köprüsü"** haritada yeşil işaretle gösterilir ama
   kendisine ait bir bölüm yoktur; hakkında metin yazılırsa `FOCUS` eşlemesine
   ve ilgili `PLACES` kaydının `go` alanına eklenmelidir.
 - Fotoğraflar 1600 px genişliğe indirilmiş, `srcset` ile küçük ekranlarda 800 px
   sürüm sunulmuştur. Özgün dosyalar bu klasörde tutulmaz.
 
+## Hakkında bölümü
+
+Sayfayı hazırlayan kişi, telif notu ve iletişim bilgileri `index.html` içindeki
+`#hakkinda` bölümünde ve alt bilgide yer alır. Telefon `tel:` bağlantısıyla
+verilmiştir; mobilde dokununca doğrudan arama başlar.
+
 ## Metinlerin kaynağı
 
 Sayfadaki bilgiler, sitenin sonundaki kaynakçada listelenen çalışmalara
-dayanmaktadır. Fotoğraflar köyde çekilmiştir; ahşap mihrap ve minber görselleri
-Ankara Etnografya Müzesi'ndeki eserlere aittir.
+dayanmaktadır. Fotoğrafların çoğu köyde çekilmiştir; ahşap mihrap ve minber
+görselleri Ankara Etnografya Müzesi'ndeki eserlere, Samotherium kafatası
+Şenyürek'in 1954 tarihli makalesine, Damsa haritası ise Osmanlı Arşivi'ne aittir
+(Türkçeleştiren: Aytülü Dirik).
 
 ## Lisans
 
