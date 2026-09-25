@@ -81,7 +81,6 @@
   var PLACES = [
     { id: 'cami',                lat: 38.49191, lng: 34.94697, tr: 'Taşkınpaşa Camii',            en: 'Taşkınpaşa Mosque',        go: 'cami' },
     { id: 'medrese',             lat: 38.49531, lng: 34.94985, tr: 'Taşkınpaşa Medresesi',        en: 'Taşkınpaşa Medrese',       go: 'medrese' },
-    { id: 'dervis',              lat: 38.49447, lng: 34.94731, tr: 'Derviş Evi (Dergâh)',         en: 'The Dervish House',        go: 'dervis-evi' },
     { id: 'namazgah',            lat: 38.49277, lng: 34.94984, tr: 'Namazgâh',                    en: 'Namazgâh',                 go: 'namazgah' },
     { id: 'kilise12',            lat: 38.49342, lng: 34.94689, tr: '1 ve 2 Nolu Kiliseler',       en: 'Churches No. 1 and 2',     go: 'kilise-1' },
     { id: 'kilise3',             lat: 38.49611, lng: 34.94714, tr: '3 Nolu Kilise',               en: 'Church No. 3',             go: 'kilise-3' },

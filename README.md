@@ -67,6 +67,10 @@ eklemek ve `go` alanına ilgili bölümün `id` değerini yazmak yeterlidir.
 - **Damsa haritası** Osmanlı Arşivi'nden bir haritadır; Latin harfli okumaları
   Aytülü Dirik eklemiştir. Kaynak ve okumayı yapan kişi, görselin alt yazısında
   her iki dilde belirtilmiştir.
+- **Derviş Evi bölümü kaldırılmıştır.** Metni, fotoğrafı, harita işareti ve
+  kronolojideki 2025 kaydı birlikte çıkarılmıştır. Geri eklenecekse dört yerin
+  de güncellenmesi gerekir: `index.html` (bölüm + kronoloji satırı),
+  `assets/js/main.js` (`PLACES` kaydı) ve `assets/img/` (görsel).
 - **"Bekar Erkek Hamamı Köprüsü"** haritada yeşil işaretle gösterilir ama
   kendisine ait bir bölüm yoktur; hakkında metin yazılırsa `FOCUS` eşlemesine
   ve ilgili `PLACES` kaydının `go` alanına eklenmelidir.
